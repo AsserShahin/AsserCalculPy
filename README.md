@@ -9,3 +9,13 @@ Or
 ```
 python main.py
 ```
+# Installation
+To install it go to my releases tab and download the .deb file but this is only for linux debian flavours and install it by
+```
+sudo apt install ./assercalculpy.deb
+```
+And then open it on your app menu or run it by
+```
+assercalculpy
+```
+And enjoy!
